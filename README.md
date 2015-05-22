@@ -11,20 +11,26 @@ Cat Herders is a game for 2-players.
 Components
 =========
 
-9 grumpy cat miniatures, each of which I’ll represent here as this token:    
+* 9 grumpy cat miniatures, each of which I’ll represent here as this token:    
 ![Grumpy Cat Token](./img/grumpy-cat-token.png)    
-15 blue Herders for player one and 15 red Herders for player two    
+* 15 blue Herders for player one and 15 red Herders for player two    
 ![Blue herder token](./img/herder-token-1.png)    
 ![Red herder token](./img/herder-token-2.png)    
-The board    
+* The board    
 ![Board](./img/cat-herders-board.png)     
 The outer row of brown spaces is called the Wall and the green spaces inside are called the Park
 
 Setup
 =====
 
-There are two different setups: the Beginner Setup, and the Standard Setup. Abstract game enthusiasts should head right to the standard setup up, but if you’re not accustomed to spatial strategy games or you’re playing with a kid, consider using the Beginner Setup.
-Regardless of which setup you use, to complete the setup, place the nine cats on random empty Park spaces.
+There are two different setups: the *Beginner Setup*, and the *Standard Setup*. Abstract game enthusiasts should head right to the standard setup up, but if you’re not accustomed to spatial strategy games or you’re playing with a kid, consider using the Beginner Setup.    
+
+**Beginner Setup**: place Herders on the Wall according to this picture:     
+![Beginner Setup](./img/cat-herders-beginner-setup.png)    
+**Standard Setup**: place Herders on the Wall according to this picture:    
+![Standard Setup](./img/cat-herders-standard-setup.png)    
+Regardless of which setup you use, to complete the setup, place the nine cats on random empty Park spaces. Example:    
+![Initial setup example](./img/cat-herders-initial-cat-layout.png)
 
 Turn Rules
 ==========
@@ -32,6 +38,8 @@ Turn Rules
 1. Players take turns. On your turn, you must either place a new Herder on any empty Wall space, or move a Herder already on the board 1 or 2 empty Park spaces in a straight line in any direction.
 
 2. After you have placed or moved an Herder, you must move any cats which are now adjacent to that Herder, as follows:
+![Cat movement example](./img/cat-movement-example1.png)    
+
 
 3. A cat always moves to an empty Park space adjacent to it. It always moves to the adjacent space least surrounded by Herders (has fewest Herders adjacent to it). If there are multiple spaces with the same minimal number of herders adjacent to them, the moving player chooses which space the cat moves to. 
 
