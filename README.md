@@ -1,7 +1,7 @@
 catherders
 ==========
 
-Implementation of https://nickbentleygames.wordpress.com/2013/12/02/cat-herders-the-cat-herding-game-of-herding-cats/
+Implementation of [Cat Herders: The Cat Herding Game of Herding Cats](https://nickbentleygames.wordpress.com/2013/12/02/cat-herders-the-cat-herding-game-of-herding-cats/), a design by Nick Bentley.
 
 Rules
 =====
@@ -11,9 +11,14 @@ Cat Herders is a game for 2-players.
 Components
 =========
 
-9 grumpy cat miniatures
-15 blue Herders for player one and 15 red Herders for player two
-The board, where the outer row of brown spaces is called the Wall and the green spaces inside are called the Park
+9 grumpy cat miniatures, each of which I’ll represent here as this token:    
+![Grumpy Cat Token](./img/grumpy-cat-token.png)    
+15 blue Herders for player one and 15 red Herders for player two    
+![Blue herder token](./img/herder-token-1.png)    
+![Red herder token](./img/herder-token-2.png)    
+The board    
+![Board](./img/cat-herders-board.png)     
+The outer row of brown spaces is called the Wall and the green spaces inside are called the Park
 
 Setup
 =====
